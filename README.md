@@ -1,6 +1,3 @@
-pobierz klikając tu -> [Instalator](https://github.com/janekfun/srajacykon/raw/refs/heads/main/Instalator.zip)
-stare repository! idź do [mojego drugiego konta](https://github.com/janek0yt/srajacyjednorozec)
+pobierz wersję 1.1 klikając tu -> [Instalator](https://github.com/janekfun/srajacykon/raw/refs/heads/main/Instalator.zip)
 
-UWAGA -- TO WERSJA 1.1
-
-ZAINSTALUJ NOWSZE [TUTAJ](https://github.com/janek0yt/srajacyjednorozec)
+nowsze wersje pobierz [tutaj!!!!](https://github.com/janek0yt/srajacyjednorozec)
